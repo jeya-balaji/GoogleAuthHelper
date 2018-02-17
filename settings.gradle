@@ -1,0 +1,2 @@
+include ':app', ':googleauthhelper'
+project(':googleauthhelper').projectDir = new File('googleauthhelper')
